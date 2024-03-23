@@ -35,7 +35,6 @@ int main(){
 }
 
 void calculatorHandle(){
-    printf("Start calculating...");
     char mark;
     int finalResult, tryAgain;
     mark = operationSelector();
